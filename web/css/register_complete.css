@@ -1,0 +1,23 @@
+.body {
+	border: 2px solid black;
+	margin: auto;
+	width: 650px 
+}
+
+.complete {
+	color: #AFDCEC;
+	font-size: 120%;
+	padding-left: 35%;
+	font-family: arial;
+}
+
+.hyperlink {
+	padding-left: 40%;
+	font-family: arial;
+	color:black;
+	text-decoration: black underline;
+}
+
+.break {
+	height: 4% 
+}

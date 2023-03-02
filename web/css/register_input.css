@@ -14,13 +14,14 @@ form {
   }
   
   input {
-    width: 100%;
+    width: 98%;
     padding: 10px;
     margin-bottom: 15px;
+    margin-right: 15px;
     border: 1px solid #ddd;
     border-radius: 5px;
   }
-
+  
   button{
     background-color: #4CAF50;
     margin-left: 50px;
@@ -35,7 +36,6 @@ form {
   button:hover {
     background-color: #45a049;
   }
-
   .break {
     height: 4% 
   }
